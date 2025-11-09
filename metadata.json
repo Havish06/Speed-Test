@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Speed Test UI",
+  "description": "A sleek and modern web application to simulate a WiFi speed test, visualizing the results with a real-time graph. Includes options to simulate changing providers and connecting to a VPN.",
+  "requestFramePermissions": []
+}
